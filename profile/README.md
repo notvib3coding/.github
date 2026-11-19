@@ -12,5 +12,5 @@ Twitch   twitch.tv/notvib3coding
 
 The repos here are companions to the channel's videos: clone them and follow along.
 
-- [sbx-demo](https://github.com/notvib3coding/sbx-demo): a tiny Cat API app, the project in the video on running a
+- [sbx-demo](https://github.com/notvib3coding/sbx-demo): a small Symfony notes API in Docker, the project in the video on running a
   coding agent with full permissions inside Docker Sandboxes.
